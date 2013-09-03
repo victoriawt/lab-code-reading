@@ -7,7 +7,7 @@ package taojava.lab.codereading;
 public class Main {
 
     /**
-     * @param args
+     * Print some not-very-interesting output.
      */
     public static void main(String[] args) {
 	java.io.PrintWriter pen = new java.io.PrintWriter(System.out, true);
