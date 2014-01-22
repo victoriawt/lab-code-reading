@@ -5,14 +5,15 @@ package taojava.lab.codereading;
  * 
  * @author Samuel A. Rebelsky
  */
-public class MathUtils {
-    /**
+public class MathUtils 
+{
+  /**
      * Square an integer.
      */
     public static 
-    int square(int x) 
+int square(int x) 
     { return
-	    x * x;  } // square(int)
+        x * x;  } // square(int)
     
     /** 
      * Square a double.
